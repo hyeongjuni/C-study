@@ -13,5 +13,5 @@ int main(void)
 		std::cout << "이번 달 급여 : " << 50 + howmuch * 0.12  <<"만원" << std::endl;
 	}
 
-	return -1;
+	return -1; //메롱
 }
